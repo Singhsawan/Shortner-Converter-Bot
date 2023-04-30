@@ -3,14 +3,14 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**{},
-I am Omega Links Converter Bot. I Can Convert Links Directly From Your OmegaLinks.in Account,
+I am ziplinker Links Converter Bot. I Can Convert Links Directly From Your ziplinker.net Account,
     
-Go To** 👉 https://omegalinks.in/member/tools/api?connect=true
+Go To** 👉 https://ziplinker.net/member/tools/api?connect=true
 **🤗 Than Hit Start If You're Redirected To Bot.**
 
 Other Ways 👇
 
-1. **Go To** 👉 https://omegalinks.in/member/tools/api
+1. **Go To** 👉 https://ziplinker.net/member/tools/api
 2. **Than Copy** API Key
 3. **Than Type** `/api` than give a single space and than paste your API Key
 **(see example to understand more...)**
@@ -31,7 +31,7 @@ HELP_MESSAGE = '''**{},**
 
 ɪ  ᴄᴀɴ  ᴄᴏɴᴠᴇʀᴛ  ᴀɴʏ  ᴅɪʀᴇᴄᴛ  ʟɪɴᴋ  ɪɴᴛᴏ  ʏᴏᴜʀ  ᴜʀʟ  ꜱʜᴏʀᴛᴇʀɴ  ʟɪɴᴋꜱ.
     
-𝟏.  ɢᴏ  ᴛᴏ  👉  https://omegalinks.in/member/tools/api
+𝟏.  ɢᴏ  ᴛᴏ  👉  https://ziplinker.net/member/tools/api
   
 𝟐.  ᴛʜᴀɴ  ᴄᴏᴘʏ  **ᴀᴘɪ  ᴋᴇʏ**
 
@@ -48,13 +48,13 @@ HELP_MESSAGE = '''**{},**
 𝐍𝐎𝐓𝐄 :  ꜰᴏʀ  ᴅᴇᴛᴀɪʟꜱ 👇 👇'''
 
 ABOUT_TEXT = '''**
-I am Omega Links Converter Bot. I Can Convert Links Directly From Your OmegaLinks.in Account,**
+I am ziplinker Links Converter Bot. I Can Convert Links Directly From Your ziplinker.net Account,**
 
 **⚡Features⚡**
 
-**• I can Convert any links or posts to your OmegaLinks link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)**
+**• I can Convert any links or posts to your ziplinker link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)**
 
-**• I can Convert unlimited OmegaLinks.in links at once.** (if you are sending a list of urls.)
+**• I can Convert unlimited ziplinker.net links at once.** (if you are sending a list of urls.)
 
 **• No need to share password or email to convert links.**
 
@@ -72,7 +72,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://telegram.me/MovieVillaSupport | Movie Villa"""
+Ex: https://telegram.me/ziplinker_net | ziplinker_net"""
 
 
 ADMINS_MESSAGE = """
@@ -84,7 +84,7 @@ List of Admins who has access to this Bot
 ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 
     [
-        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.dog/MovieVillaOwner')
+        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.dog/J_shree_ram')
         
     ],
 
@@ -94,7 +94,7 @@ ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
     [
-        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.dog/MovieVillaOwner')
+        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.dog/J_shree_ram')
         
     ],
 
@@ -103,7 +103,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('🪄  Connect  To  OmegaLinks  ⚙️', url=f'https://omegalinks.in/ref/devil')
+        InlineKeyboardButton('🪄  Connect  To  OmegaLinks  ⚙️', url=f'https://ziplinker.net/ref/devil')
     ]
 ])
 
@@ -117,7 +117,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://omegalinks.in/ref/devil)
+- Website: [{base_site}](https://ziplinker.net/ref/devil)
 
 - Site Link:
  {base_site}
@@ -144,7 +144,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api 9c5a6c96077a1b499d8f953331221159383eb434 `
 
-Get API From [{base_site}](https://omegalinks.in/ref/devil)
+Get API From [{base_site}](https://ziplinker_net/ref/devil)
 
 Current: {base_site} 
 API: `{shortener_api}`"""
@@ -169,10 +169,10 @@ To Remove Footer Text: `/footer remove`
 `/footer
 ━━━━━━━━━━━━━━━━━
 💁‍♀️ How To Download 👇
-👉 https://youtube.com/@movievillayt
+👉 https://youtube.com/
 ━━━━━━━━━━━━━━━━━
 🔥 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🔥
-👉 https://telegram.dog/Movievillayt`
+👉 https://telegram.dog/`
 """
 
 USERNAME_TEXT = """**ᴘʟᴇᴀꜱᴇ  ᴛʏᴘᴇ  ɪɴ  ɢɪᴠᴇɴ  ꜰᴏʀᴍᴀᴛ
@@ -182,7 +182,7 @@ USERNAME_TEXT = """**ᴘʟᴇᴀꜱᴇ  ᴛʏᴘᴇ  ɪɴ  ɢɪᴠᴇɴ  ꜰᴏ�
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞:
 
-/channel @MovieVillaYT
+/channel @ziplinker_net
 
 𝐎𝐫
 
